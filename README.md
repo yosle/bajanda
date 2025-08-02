@@ -1,5 +1,5 @@
 # YouTube Downloader GUI (C# + Windows Forms)
-
+![Captura de pantalla](./Screenshot_11.png)
 Una interfaz gráfica súper simple para `yt-dlp`, creada como un experimento de *vibe coding* 🧪🎧. Este proyecto fue hecho con amor y cafeína, ideal para quienes quieren descargar videos sin abrir una terminal.
 
 ---
